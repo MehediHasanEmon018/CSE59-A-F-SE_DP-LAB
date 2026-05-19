@@ -324,7 +324,7 @@ The system must display a menu with the following options:
 
 # 4. System Models
 
-<img src="images/imgg.png" alt="Context Diagram">
+<img src="images/imgg.png">
 ### Inputs
 
 -   User Commands
